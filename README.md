@@ -15,7 +15,7 @@
 
 #### INTEGRANTES DO GRUPO:
 
-###### Brayan Guilherme Barbosa - RA	0030482021037
-###### Christian Cezar Coelho - RA 0030482021031
-###### Edson de Barros Junior - RA 0030482011007
-###### Talita Tortola Almeida - RA 0030481921003
+###### - Brayan Guilherme Barbosa - RA	0030482021037
+###### - Christian Cezar Coelho - RA 0030482021031
+###### - Edson de Barros Junior - RA 0030482011007
+###### - Talita Tortola Almeida - RA 0030481921003
